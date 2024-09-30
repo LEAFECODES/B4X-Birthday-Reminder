@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key>
+    <string>com.leafecodes.birthday.bridge</string>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>CFBundleExecutable</key>
+    <string>${EXECUTABLE_NAME}</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>B4i-Bridge</string>
+	<key>CFBundleDisplayName</key>
+    <string>B4i-Bridge</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleSignature</key>
+    <string>????</string>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	
+	<key>CFBundleIconName</key>
+	<string>AppIcon</string>
+	<key>CFBundleIcons</key>
+	<dict/>
+	<key>CFBundleIcons~ipad</key>
+	<dict/>
+    <key>CFBundleVersion</key>
+    <string>1.0.0</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0.0</string>
+    <key>LSRequiresIPhoneOS</key>
+    <true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+    <key>UIRequiredDeviceCapabilities</key>
+    <array>
+		<string>armv7</string>
+    	
+    </array>
+    <key>UISupportedInterfaceOrientations</key>
+		<array>
+		<string>UIInterfaceOrientationPortrait</string>
+<string>UIInterfaceOrientationLandscapeLeft</string>
+<string>UIInterfaceOrientationLandscapeRight</string>
+
+		</array>
+    <key>UISupportedInterfaceOrientations~ipad</key>
+		<array>
+			<string>UIInterfaceOrientationPortrait</string>
+<string>UIInterfaceOrientationLandscapeLeft</string>
+<string>UIInterfaceOrientationLandscapeRight</string>
+<string>UIInterfaceOrientationPortraitUpsideDown</string>
+
+		</array>
+	<key>LSApplicationQueriesSchemes</key><array><string>b4idebug0</string><string>b4idebug1</string><string>b4idebug2</string><string>b4idebug3</string><string>b4idebug4</string><string>b4idebug5</string><string>b4idebug6</string><string>b4idebug7</string><string>b4idebug8</string><string>b4idebug9</string><string>b4idebug10</string><string>b4idebug11</string><string>b4idebug12</string><string>b4idebug13</string><string>b4idebug14</string><string>b4idebug15</string><string>b4idebug16</string><string>b4idebug17</string><string>b4idebug18</string><string>b4idebug19</string><string>b4idebug20</string><string>b4idebug21</string><string>b4idebug22</string><string>b4idebug23</string><string>b4idebug24</string><string>b4idebug25</string><string>b4idebug26</string><string>b4idebug27</string><string>b4idebug28</string><string>b4idebug29</string><string>b4idebug30</string><string>b4idebug31</string><string>b4idebug32</string><string>b4idebug33</string><string>b4idebug34</string><string>b4idebug35</string><string>b4idebug36</string><string>b4idebug37</string><string>b4idebug38</string><string>b4idebug39</string><string>b4idebug40</string><string>b4idebug41</string><string>b4idebug42</string><string>b4idebug43</string><string>b4idebug44</string></array>
+	
+	<key>CFBundleURLTypes</key><array><dict><key>CFBundleURLSchemes</key><array><string>b4icloud</string></array></dict>
+<dict><key>CFBundleURLSchemes</key><array><string>b4ibridge</string></array></dict>
+</array>
+	<key>UIAppFonts</key><array><string>B4X_FontAwesome.otf</string><string>B4X_MaterialIcons.ttf</string></array>
+	
+</dict>
+</plist>

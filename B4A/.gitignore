@@ -1,0 +1,19 @@
+#B4XPages
+**/Objects
+**/AutoBackups
+*.meta
+*.meta
+*.zip
+
+# ignore ALL files in these directories
+AutoBackups/
+Objects/
+
+#B4a
+bin/
+gen/
+src/
+*.apk
+*.dex
+*b4a.meta
+
